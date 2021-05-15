@@ -26,6 +26,12 @@
          "id":14,
          "name":"entry_hole",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":11,
